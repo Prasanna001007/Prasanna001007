@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Android App Developer from Nepal</h3>
 
 - 🔭 I’m currently working on **TrailMind**
-- TrailMind is  an intelligent mobile travel planning application engi
-neered to resolve fragmented tourism coordination within Nepal. While Nepal serves
+- TrailMind is  an intelligent mobile travel planning application engineered 
+to resolve fragmented tourism coordination within Nepal. While Nepal serves
 as a premier destination, existing tools lack a unified native system covering the en
 tire customer journey spanning from dynamic itinerary generation to optimized route
 pathing, predictive budgeting, and contextual alpine safety navigation
